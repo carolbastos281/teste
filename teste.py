@@ -3,5 +3,5 @@ import pandas as pd
  
 st.write ( """
 # Carol diva
-Olá *mundo!*
+*Olá mundo*
 """ )

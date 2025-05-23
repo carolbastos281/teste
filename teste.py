@@ -3,5 +3,7 @@ import pandas as pd
  
 st.write ( """
 # Carol diva
-**Olá mundo**
+**Olá mundoooooo!**
 """ )
+lista= [ carol, josir, malu ]
+write[2]

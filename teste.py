@@ -5,5 +5,5 @@ st.write ( """
 # Carol diva
 **Olá mundoooooo!**
 """ )
-lista= [ carol, josir, malu ]
-write[2]
+lista = ["carol", "josir", "malu"]
+st.write(lista[2])
